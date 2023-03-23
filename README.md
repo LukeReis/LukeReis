@@ -8,8 +8,8 @@
 - 🤔 Estou animado para trabalhar em projetos colaborativos e aprender com desenvolvedores mais experientes
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeReis&show_icons=true&hide=issues,contribs&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeReis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LukeReis&show_icons=true&hide=issues,contribs&count_private=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukeReis&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
