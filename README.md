@@ -1,7 +1,7 @@
 # Olá!! Eu sou Lucas Reis.
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeReis&color=blue" alt="Profile views" /> </p>
 - 🔭 Eu atualmente trabalho como Analista de TI
 - 🌱 Estou me formando em Engenharia de Computação e me aprofundando em desenvolvimento Back-end com Python
 - 👯 Busco aprimorar minhas habilidades em Python e me aprofundar em áreas como bancos de dados, API's, automatizaçoes e algoritmos.
