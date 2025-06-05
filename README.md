@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeReis&color=blue" alt="Profile views" /> </p>
 
-- 🔭 Atualmente trabalho como Analista de TI
-- 🌱 Estou me formando em Engenharia de Computação e me aprofundando em desenvolvimento Back-end com Python
-- 👯 Busco aprimorar minhas habilidades em Python e me aprofundar em áreas como bancos de dados, API's, automatizaçoes e algoritmos.
-- 🤔 Estou animado para trabalhar em projetos colaborativos e aprender com desenvolvedores mais experientes
-- 😄 Pronouns: ele/dele
+🧑‍💻 **Analista de TI**, formado em **Engenharia da Computação**  
+⚙️ Apaixonado por **Infraestrutura**, **DevOps** e **automação com Python**  
+🐍 Experiência com scripts, integração de sistemas e processos de backend  
+☁️ Atuação e estudos com **tecnologias em nuvem** (AWS e Azure)  
+🔄 Foco em construir ambientes eficientes, escaláveis e seguros  
+🤝 Aberto a colaborações e sempre em busca de crescimento profissional  
+🧔 Pronomes: **ele/dele**
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LukeReis&show_icons=true&hide=issues&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukeReis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
