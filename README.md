@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeReis&color=blue" alt="Profile views" /> </p>
 
-🧑‍💻 **Analista de TI**, formado em **Engenharia da Computação** e pos graduando em **Inteligencia Artificial e Aprendizado de Maquina**
+🧑‍💻 **Analista de TI**, formado em **Engenharia da Computação** e pos graduando em **Inteligencia Artificial e Aprendizado de Maquina**    
 ⚙️ Apaixonado por **Infraestrutura**, **IA** e **Python**  
 🐍 Experiência com scripts, integração de sistemas e processos de backend  
 ☁️ Atuação e estudos com **tecnologias em nuvem** (AWS e Azure)  
